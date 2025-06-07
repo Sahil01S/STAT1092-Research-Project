@@ -1,5 +1,4 @@
-# STAT1092-Research-Project-
-# Project---Paper-STAT1092
+# STAT1092-Research-Project
 ## Two-treatment response adaptive Group-Sequential Allocation Design For Count data
 
 ## Authors:
