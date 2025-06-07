@@ -9,27 +9,8 @@
 
 ## Description:
 
-Group-sequential designs are usually 
-economic in the sense that they have 
-potential to reach to the conclusion 
-for assessing the superiority of a 
-treatment as compared with other treatments 
-using less sample trials. Still they are 
-not very prominent in the domain of 
-applications of clinical trial primarily 
-because of the complexities Involved in 
-their computation and analyses. Till now 
-the leading applications on group sequential 
-designs are primarily on binary or normal 
-responses which are very common response 
-distributions in real life. In our work, 
-while developing the two-treatment 
-response-adaptive group sequential 
-design we focus on count data responses 
-which are emerging response distributions 
-in the arena of biostatistics due to their 
-wide applicability and unconventionality 
-in this field. We will also try to 
-improvise the prognostic factors in the 
-existing design. Also we may extend the 
-whole analysis for multi-treatment scenario
+Group-sequential designs are known for their statistical and ethical efficiency, allowing researchers to reach conclusions about treatment efficacy using potentially smaller sample sizes and earlier stopping rules. This makes them especially attractive in clinical trials where patient welfare and resource optimization are of paramount importance. However, despite their advantages, such designs are still underutilized in practical clinical trial applications. One key reason is the computational and inferential complexity involved in implementing these designs, particularly when moving beyond classical distributions like the normal or binary responses.
+
+Till now, most real-world applications of group-sequential designs have focused on outcomes following normal or binomial distributions, which are easier to handle analytically and computationally. While useful, these distributions are not always the most natural or informative models for many modern medical outcomes. In particular, count data are increasingly encountered in biostatistics and medical research due to the evolving nature of health surveillance and electronic health record systems.
+
+In our work, while developing the two-treatment response-adaptive group sequential design we focus on count data responses which are emerging response distributions in the arena of biostatistics due to their wide applicability and unconventionality in this field. We will also try to improvise the prognostic factors in the existing design. Also we may extend the whole analysis for multi-treatment scenario. Moreover, the incorporation of adaptive elements in sequential frameworks provides greater flexibility and efficiency in clinical trial conduct. By allowing for interim analyses and possible early stopping, both ethical and economic considerations are better addressed. With the growing recognition of count data in medical and epidemiological studies, our proposed design can fill a significant methodological gap.
